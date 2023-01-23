@@ -1,4 +1,2 @@
 # firstrepo
-Introduction to firstrepo
-Lab1
-Lab1 rectify
+My name is Dileep Sumanth and i go to Northwest Missouri State University.
